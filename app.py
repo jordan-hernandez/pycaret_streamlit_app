@@ -27,7 +27,7 @@ def run():
     
     st.sidebar.image(image_hospital)
 
-    st.title("Insurance Charges Prediction App")
+    st.title("Insurance Charges Prediction Application")
 
     if add_selectbox == 'Online':
 
